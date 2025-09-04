@@ -35,7 +35,7 @@ In my free time, I practice yoga, and enjoy reading poetry and books.
 - Building invoice management / analytics system for small and medium sized business.  
 - Responsibilities: system design and implementation.  
 - Team size: 2 developers.  
-- Stack: `Clojure / DatastarJS / DatalevinDB`
+- Stack: `Clojure / DatastarJS / Datalog / DatalevinDB`
 
 ### **2023 – 2024 · Senior Developer · Cartman**
 - Worked on dashboard for database clusters.  
