@@ -32,9 +32,9 @@ In my free time, I practice yoga, and enjoy reading poetry and books.
 ## 💼 Professional Experience
 
 ### **2025 –  · Senior Developer · PractiTest**
-- Building invoice management / analytics system for small and medium sized business.  
+- Working on test management system 
 - Responsibilities: system design and implementation.  
-- Team size: 2 developers.  
+- Team size: 10 developers.  
 - Stack: `Clojure / TypeScript / Postgresql / Ruby on Rails`
 
 ### **2023 – 2024 · Senior Developer · Cartman**
