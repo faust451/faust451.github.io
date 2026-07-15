@@ -35,7 +35,7 @@ In my free time, I practice yoga, and enjoy reading poetry and books.
 - Working on test management system 
 - Responsibilities: system design and implementation.  
 - Team size: 10 developers.  
-- Stack: `Clojure / TypeScript / Postgresql / Ruby on Rails`
+- Stack: `Clojure / ClojureScript / Ruby on Rails / Postgresql / Rabbitmq`
 
 ### **2023 – 2024 · Senior Developer · Cartman**
 - Worked on dashboard for database clusters.  
