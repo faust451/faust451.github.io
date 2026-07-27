@@ -19,7 +19,7 @@ In my free time, I practice yoga, and enjoy reading poetry and books.
 ## 🛠️ Skills
 
 - **Languages & Frameworks:**  
-  `Clojure / ClojureScript / Java / Ruby on Rails / Golang / Dart / Flutter / JS / React`
+  `Golang / Clojure / ClojureScript / Java / Ruby on Rails / JS / React`
 
 - **Databases:**  
   `PostgreSQL / MongoDB / DynamoDB / CouchDB`
