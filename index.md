@@ -17,8 +17,8 @@ In my free time, I practice yoga, and enjoy reading fiction, and of course confi
 
 > Quality is not an act, it is a habit.
 >
-> \— Aristotle on Software design
----
+> — Aristotle on Software Design
+
 
 ## 🛠️ Skills
 
