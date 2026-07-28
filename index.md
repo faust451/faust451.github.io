@@ -22,7 +22,7 @@ In my free time, I practice yoga, and enjoy reading poetry and books.
   `Golang / Clojure / ClojureScript / Java / Ruby on Rails / JS / React`
 
 - **Databases:**  
-  `PostgreSQL / MongoDB / DynamoDB / CouchDB`
+  `PostgreSQL / MongoDB / Datalog / Datomic / DynamoDB / CouchDB`
 
 - **Other Tools & Technologies:**  
   `Kafka / Apache Spark / AWS`
