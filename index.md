@@ -10,10 +10,13 @@
 
 ## 🧑‍💻 Profile
 
-Hello there! I'm a Software Engineer from Ukraine, currently based in Bulgaria, with experience in the industry since 2007.  
-I'm a team player, a curious person driven by solving hard problems.  
-In my free time, I practice yoga, and enjoy reading poetry and books.
+Hello there!
+I'm a Software Engineer with focus on simplicity, taking ownership and eager to learn.
+Family of Lisp languages kind of my passion, especially Clojure, Guix System, Emacs
+In my free time, I practice yoga, and enjoy reading fiction, and of course configuring Emacs )
 
+> Quality is not an act, it is a habit. 
+> — Aristotle notes on software design
 ---
 
 ## 🛠️ Skills
