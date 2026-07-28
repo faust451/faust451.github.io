@@ -25,7 +25,7 @@ In my free time, I practice yoga, and enjoy reading poetry and books.
   `PostgreSQL / MongoDB / DynamoDB / CouchDB`
 
 - **Other Tools & Technologies:**  
-  `Kafka / Apache Spark / AWS / Emacs`
+  `Kafka / Apache Spark / AWS`
 
 ---
 
