@@ -15,8 +15,9 @@ I'm a Software Engineer with focus on simplicity, taking ownership and eager to 
 Family of Lisp languages kind of my passion, especially Clojure, Guix System, Emacs
 In my free time, I practice yoga, and enjoy reading fiction, and of course configuring Emacs )
 
-> Quality is not an act, it is a habit. 
-> — Aristotle notes on software design
+> Quality is not an act, it is a habit.
+>
+> — Aristotle on Software design
 ---
 
 ## 🛠️ Skills
