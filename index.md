@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 Profile
 
-Hello there!
+Hello there!<br>
 I'm a Software Engineer with focus on simplicity, taking ownership and eager to learn.
 Family of Lisp languages kind of my passion, especially Clojure, Guix System, Emacs
 In my free time, I practice yoga, and enjoy reading fiction, and of course configuring Emacs )
