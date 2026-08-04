@@ -39,13 +39,13 @@ In my free time, I practice yoga, and enjoy reading fiction, and of course confi
 - Working on test management system 
 - Responsibilities: system design and implementation.  
 - Team size: 10 developers.  
-- Stack: `Golang / Clojure / ClojureScript / Postgresql / Rabbitmq`
+- Stack: `Golang / Clojure / ClojureScript / Postgresql / Rabbitmq / Kubernetes`
 
 ### **2023 – 2024 · Senior Developer · Cartman**
 - Worked on dashboard for database clusters.  
 - Responsibilities: system design and implementation.  
 - Team size: 2 developers.  
-- Stack: `Clojure / ClojureScript`
+- Stack: `Clojure / ClojureScript / Kubernetes`
 
 ---
 
