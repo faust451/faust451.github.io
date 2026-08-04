@@ -55,7 +55,7 @@ In my free time, I practice yoga, and enjoy reading fiction, and of course confi
 - ChatBot platform for food delivery: Full system implementation.  
 - Responsibilities: system design and implementation.  
 - Team size: 1–3 developers.  
-- Stack: `Golang / Dart / Flutter`
+- Stack: `Golang / Ruby / PostgreSQL`
 
 ---
 
@@ -73,7 +73,7 @@ In my free time, I practice yoga, and enjoy reading fiction, and of course confi
 - Developed custom CMS for malls in the US.  
 - Responsibilities: system design, module development, support, full-stack.  
 - Team size: 3 developers.  
-- Stack: `Ruby / Rails / JS / ClojureScript`
+- Stack: `Ruby / Rails / TypeScript / ClojureScript`
 
 ---
 
