@@ -23,7 +23,7 @@ In my free time, I practice yoga, and enjoy reading fiction, and of course confi
 ## 🛠️ Skills
 
 - **Languages & Frameworks:**  
-  `Golang / Clojure / ClojureScript / Java / Ruby on Rails / JS / React`
+  `Golang / Clojure / ClojureScript / TypeScript / Java / Ruby on Rails / JS / React`
 
 - **Databases:**  
   `PostgreSQL / MongoDB / Datalog / Datomic / DynamoDB / CouchDB`
@@ -39,13 +39,13 @@ In my free time, I practice yoga, and enjoy reading fiction, and of course confi
 - Working on test management system 
 - Responsibilities: system design and implementation.  
 - Team size: 10 developers.  
-- Stack: `Golang / Clojure / ClojureScript / Postgresql / Rabbitmq / Kubernetes`
+- Stack: `Golang / Clojure / TypeScript / Postgresql / Rabbitmq / Kubernetes`
 
 ### **2023 – 2024 · Senior Developer · Cartman**
 - Worked on dashboard for database clusters.  
 - Responsibilities: system design and implementation.  
 - Team size: 2 developers.  
-- Stack: `Clojure / ClojureScript / Kubernetes`
+- Stack: `Clojure / ClojureScript / ReactJS / Kubernetes`
 
 ---
 
@@ -55,7 +55,7 @@ In my free time, I practice yoga, and enjoy reading fiction, and of course confi
 - ChatBot platform for food delivery: Full system implementation.  
 - Responsibilities: system design and implementation.  
 - Team size: 1–3 developers.  
-- Stack: `Golang / Ruby / PostgreSQL`
+- Stack: `Golang / Ruby / TypeScript / PostgreSQL`
 
 ---
 
@@ -65,7 +65,7 @@ In my free time, I practice yoga, and enjoy reading fiction, and of course confi
 - Pharmacological research data platform: real-time data processing & analytics.  
 - Responsibilities: team leadership, system design, building pipelines, real-time processing.  
 - Team size: 3 developers.  
-- Stack: `Golang / Clojure / ClojureScript / Kafka / PostgreSQL`
+- Stack: `Golang / Clojure / TypeScript / ReactJS / Kafka / PostgreSQL`
 
 ---
 
