@@ -39,7 +39,7 @@ In my free time, I practice yoga, and enjoy reading fiction, and of course confi
 - Working on test management system 
 - Responsibilities: system design and implementation.  
 - Team size: 10 developers.  
-- Stack: `Golang / Clojure / TypeScript / Postgresql / Rabbitmq / Kubernetes`
+- Stack: `Ruby/ Rails / Clojure / TypeScript / Postgresql / Rabbitmq / Kubernetes`
 
 ### **2023 – 2024 · Senior Developer · Cartman**
 - Worked on dashboard for database clusters.  
@@ -55,7 +55,7 @@ In my free time, I practice yoga, and enjoy reading fiction, and of course confi
 - ChatBot platform for food delivery: Full system implementation.  
 - Responsibilities: system design and implementation.  
 - Team size: 1–3 developers.  
-- Stack: `Golang / Ruby / TypeScript / PostgreSQL`
+- Stack: `Ruby / Rails / TypeScript / PostgreSQL`
 
 ---
 
