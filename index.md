@@ -35,7 +35,7 @@ In my free time, I practice yoga, and enjoy reading fiction, and of course confi
 
 ## 💼 Professional Experience
 
-### **2025 –  · Senior Developer · PractiTest**
+### **2025 –  · Senior Developer · Freshcode**
 - Working on test management system 
 - Responsibilities: system design and implementation.  
 - Team size: 10 developers.  
