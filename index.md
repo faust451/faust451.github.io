@@ -23,7 +23,7 @@ In my free time, I practice yoga, and enjoy reading fiction, and of course confi
 ## 🛠️ Skills
 
 - **Languages & Frameworks:**  
-  `Golang / Clojure / ClojureScript / TypeScript / Java / Python / JS / React`
+  `Python / Clojure / ClojureScript / TypeScript / Java / Golang / React`
 
 - **Databases:**  
   `PostgreSQL / MongoDB / Datalog / Datomic / DynamoDB / CouchDB`
