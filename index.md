@@ -8,7 +8,7 @@
 
 ---
 
-## 🧑‍💻 Profile
+## Profile
 
 Hello there!<br>
 I'm a Software Engineer with focus on simplicity, taking ownership and eager to learn.<br>
