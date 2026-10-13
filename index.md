@@ -26,8 +26,6 @@ In my free time, I practice yoga, and enjoy reading fiction, and of course confi
 - **Other Tools & Technologies:**  
   `Kafka / Apache Spark / AWS`
 
----
-
 ## 💼 Professional Experience
 
 ### **2025 –  · Senior Developer · Freshcode**
