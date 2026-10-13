@@ -45,7 +45,7 @@ In my free time, I practice yoga, and enjoy reading fiction, and of course confi
 - Worked on dashboard for database clusters.  
 - Responsibilities: system design and implementation.  
 - Team size: 2 developers.  
-- Stack: `Clojure / ClojureScript / ReactJS / Kubernetes`
+- Stack: `Python / FastAPI / TypeScript / ReactJS / Kubernetes`
 
 ---
 
