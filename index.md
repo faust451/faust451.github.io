@@ -32,7 +32,7 @@ In my free time, I practice yoga, and enjoy reading fiction, and of course confi
 - Working on test management system 
 - Responsibilities: system design and implementation.  
 - Team size: 10 developers.  
-- Stack: `Ruby Rails / Golang /  React / TypeScript / Postgresql / Rabbitmq / Kubernetes / AWS`
+- Stack: `Ruby Rails / Golang /  React / TypeScript / Postgresql / Rabbitmq / AWS`
 
 ### **2023 – 2024 · Senior Developer · Cartman**
 - Worked on dashboard for database clusters.  
